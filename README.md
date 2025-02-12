@@ -1,4 +1,4 @@
-## DMIMRec
+## DTFMRec
 
 Pytorch implementation for "DTFMRec: Disentangled-Text-Focused Multimodal Recommendation System".
 
